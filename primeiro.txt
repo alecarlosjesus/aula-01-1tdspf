@@ -6,3 +6,5 @@ Utilizando editor externo.
 
 
 Novo commit.
+
+Commit com a mensagem no editor padrão!
